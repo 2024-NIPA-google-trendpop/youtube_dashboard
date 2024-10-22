@@ -9,3 +9,5 @@ processing2.csv
 processing_merged.csv
 keyword_list_before_cleaning.csv
 *.csv
+Langchain/gemma/Bank-of-Korea_ChatBot/
+Langchain/gemma/bokbot/
